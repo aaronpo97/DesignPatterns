@@ -22,4 +22,8 @@
     <ProjectReference Include="..\Adapter\Adapter.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\notes.md" Link="notes.md" />
+  </ItemGroup>
+
 </Project>

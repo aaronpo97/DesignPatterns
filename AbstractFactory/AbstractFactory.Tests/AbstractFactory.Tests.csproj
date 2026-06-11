@@ -22,4 +22,8 @@
     <ProjectReference Include="..\AbstractFactory\AbstractFactory.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\notes.md" Link="notes.md" />
+  </ItemGroup>
+
 </Project>
