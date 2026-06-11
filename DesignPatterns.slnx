@@ -1,0 +1,31 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/AbstractFactory/">
+    <Project Path="AbstractFactory/AbstractFactory.Tests/AbstractFactory.Tests.csproj" />
+    <Project Path="AbstractFactory/AbstractFactory/AbstractFactory.csproj" />
+  </Folder>
+  <Folder Name="/Adapter/">
+    <Project Path="Adapter/Adapter.Tests/Adapter.Tests.csproj" />
+    <Project Path="Adapter/Adapter/Adapter.csproj" />
+  </Folder>
+  <Folder Name="/Builder/">
+    <Project Path="Builder/Builder.Tests/Builder.Tests.csproj" />
+    <Project Path="Builder/Builder/Builder.csproj" />
+  </Folder>
+  <Folder Name="/Composite/">
+    <Project Path="Composite/Composite.Tests/Composite.Tests.csproj" />
+    <Project Path="Composite/Composite/Composite.csproj" />
+  </Folder>
+  <Folder Name="/Factory/">
+    <Project Path="Factory/Factory.Tests/Factory.Tests.csproj" />
+    <Project Path="Factory/Factory/Factory.csproj" />
+  </Folder>
+  <Folder Name="/Singleton/">
+    <Project Path="Singleton/Singleton.Tests/Singleton.Tests.csproj" />
+    <Project Path="Singleton/Singleton/Singleton.csproj" />
+  </Folder>
+</Solution>
